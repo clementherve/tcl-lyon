@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="_RX">
+        <item name="display_name">RX</item>
+        <item name="line_id">RX</item>
+        <item name="line_name">Rhône Express</item>
+    </string-array>
+    <string-array name="_T2">
+        <item name="display_name">T2</item>
+        <item name="line_id">T2</item>
+        <item name="line_name">Perrache - Saint Priest Bel Air</item>
+    </string-array>
+    <string-array name="_T3">
+        <item name="display_name">T3</item>
+        <item name="line_id">T3</item>
+        <item name="line_name">Gare Part-Dieu Villette - Meyzieu les Panettes</item>
+    </string-array>
+    <string-array name="_T5">
+        <item name="display_name">T5</item>
+        <item name="line_id">T5</item>
+        <item name="line_name">Grange Blanche - Eurexpo</item>
+    </string-array>
+    <string-array name="_T1">
+        <item name="display_name">T1</item>
+        <item name="line_id">T1A</item>
+        <item name="line_name">Debourg - IUT Feyssine</item>
+    </string-array>
+    <string-array name="_T4">
+        <item name="display_name">T4</item>
+        <item name="line_id">T4A</item>
+        <item name="line_name">La Doua Gaston Berger - Hôpital Feyzin Vénissieux</item>
+    </string-array>
+    <string-array name="_C1">
+        <item name="display_name">C1</item>
+        <item name="line_id">C1A</item>
+        <item name="line_name">Gare Part-Dieu Vivier Merle - Cuire</item>
+    </string-array>
+    <string-array name="_C2">
+        <item name="display_name">C2</item>
+        <item name="line_id">C2A</item>
+        <item name="line_name">Gare Part Dieu Vivier Merle - Rillieux Semailles</item>
+    </string-array>
+    <string-array name="_C3">
+        <item name="display_name">C3</item>
+        <item name="line_id">C3A</item>
+        <item name="line_name">Gare Saint-Paul - Vaulx La Grappinière</item>
+    </string-array>
+    <string-array name="_C4">
+        <item name="display_name">C4</item>
+        <item name="line_id">C4A</item>
+        <item name="line_name">Jean Macé - Cité Internationale</item>
+    </string-array>
+    <string-array name="_C5">
+        <item name="display_name">C5</item>
+        <item name="line_id">C5A</item>
+        <item name="line_name">Bellecour - Rillieux Semailles / Vancia</item>
+    </string-array>
+
+    <string-array name="_C6">
+        <item name="display_name">C6</item>
+        <item name="line_id">C6B</item>
+        <item name="line_name">Gare Part Dieu Vivier Merle - Ecully Le Pérollier</item>
+    </string-array>
+    <string-array name="_C7">
+        <item name="display_name">C7</item>
+        <item name="line_id">C7B</item>
+        <item name="line_name">Gare Part Dieu Vivier Merle - Hôpital Lyon Sud</item>
+    </string-array>
+    <string-array name="_C8">
+        <item name="display_name">C8</item>
+        <item name="line_id">C8A</item>
+        <item name="line_name">Grange Blanche - Vaulx Résistance</item>
+    </string-array>
+    <string-array name="_C9">
+        <item name="display_name">C9</item>
+        <item name="line_id">C9A</item>
+        <item name="line_name">Bellecour - Hôpitaux Est</item>
+    </string-array>
+    <string-array name="_C10">
+        <item name="display_name">C10</item>
+        <item name="line_id">C10A</item>
+        <item name="line_name">Bellecour - Saint Genis Barolles</item>
+    </string-array>
+    <string-array name="_C11">
+        <item name="display_name">C11</item>
+        <item name="line_id">C11A</item>
+        <item name="line_name">Saxe Gambetta - Laurent Bonnevay</item>
+    </string-array>
+    <string-array name="_C12">
+        <item name="display_name">C12</item>
+        <item name="line_id">C12A</item>
+        <item name="line_name">Bellecour - Hôpital Feyzin Vénissieux</item>
+    </string-array>
+    <string-array name="_C13">
+        <item name="display_name">C13</item>
+        <item name="line_id">C13A</item>
+        <item name="line_name">Grange Blanche - Montessuy</item>
+    </string-array>
+    <string-array name="_C14">
+        <item name="display_name">C14</item>
+        <item name="line_id">C14A</item>
+        <item name="line_name">Jean Macé - Les Sources</item>
+    </string-array>
+    <string-array name="_C15">
+        <item name="display_name">C15</item>
+        <item name="line_id">C15A</item>
+        <item name="line_name">Bachut - Laurent Bonnevay</item>
+    </string-array>
+    <string-array name="_C16">
+        <item name="display_name">C16</item>
+        <item name="line_id">C16A</item>
+        <item name="line_name">Charpennes - Surville Route de Vienne</item>
+    </string-array>
+    <string-array name="_C17">
+        <item name="display_name">C17</item>
+        <item name="line_id">C17A</item>
+        <item name="line_name">Charpennes - Porte des Alpes</item>
+    </string-array>
+    <string-array name="_C18">
+        <item name="display_name">C18</item>
+        <item name="line_id">C18A</item>
+        <item name="line_name">Hôtel de Ville Louis Pradel - Croix Rousse Nord</item>
+    </string-array>
+    <string-array name="_C19">
+        <item name="display_name">C19</item>
+        <item name="line_id">C19A</item>
+        <item name="line_name">Perrache - Francheville Taffignon</item>
+    </string-array>
+    <string-array name="_C20">
+        <item name="display_name">C20</item>
+        <item name="line_id">C20D</item>
+        <item name="line_name">Bellecour - Francheville Taffignon</item>
+    </string-array>
+    <string-array name="_C20E">
+        <item name="display_name">C20E</item>
+        <item name="line_id">C20E</item>
+        <item name="line_name">Bellecour - Fort du Bruissin</item>
+    </string-array>
+    <string-array name="_C21">
+        <item name="display_name">C21</item>
+        <item name="line_id">C21A</item>
+        <item name="line_name">Perrache - Gorge de Loup</item>
+    </string-array>
+    <string-array name="_C22">
+        <item name="display_name">C22</item>
+        <item name="line_id">C22A</item>
+        <item name="line_name">Perrache - Grange Blanche</item>
+    </string-array>
+    <string-array name="_C24">
+        <item name="display_name">C24</item>
+        <item name="line_id">C24D</item>
+        <item name="line_name">Gorge de Loup - Gymnase E. Catalon</item>
+    </string-array>
+    <string-array name="_C24E">
+        <item name="display_name">C24E</item>
+        <item name="line_id">C24E</item>
+        <item name="line_name">Gorge de Loup - Gymnase E. Catalon</item>
+    </string-array>
+    <string-array name="_C25">
+        <item name="display_name">C25</item>
+        <item name="line_id">C25B</item>
+        <item name="line_name">Gare Part Dieu Vivier Merle - St Priest Plaine de Saythe</item>
+    </string-array>
+    <string-array name="_C26">
+        <item name="display_name">C26</item>
+        <item name="line_id">C26A</item>
+        <item name="line_name">Cité Internationale Transbordeur- Grange Blanche</item>
+    </string-array>
+    <string-array name="_2">
+        <item name="display_name">2</item>
+        <item name="line_id">2A</item>
+        <item name="line_name">Croix-Rousse - Plateau de Saint Rambert</item>
+    </string-array>
+    <string-array name="_3">
+        <item name="display_name">3</item>
+        <item name="line_id">3A</item>
+        <item name="line_name">Gorge de Loup - Dardilly Le Jubin / Limonest Le Puy d\'Or</item>
+    </string-array>
+    <string-array name="_4">
+        <item name="display_name">4</item>
+        <item name="line_id">4A</item>
+        <item name="line_name">Gare de Vaise - Campus Lyon Ouest</item>
+    </string-array>
+    <string-array name="_5">
+        <item name="display_name">5</item>
+        <item name="line_id">5A</item>
+        <item name="line_name">Pont Mouton - Charbonnières Les Verrières</item>
+    </string-array>
+    <string-array name="_6">
+        <item name="display_name">6</item>
+        <item name="line_id">6A</item>
+        <item name="line_name">Gare de Vaise - Techlid Le Paisy</item>
+    </string-array>
+    <string-array name="_7">
+        <item name="display_name">7</item>
+        <item name="line_id">7A</item>
+        <item name="line_name">Laurent Bonnevay - Vaulx Le Bourg</item>
+    </string-array>
+    <string-array name="_8">
+        <item name="display_name">8</item>
+        <item name="line_id">8A</item>
+        <item name="line_name">Perrache - Oullins Clément Désormes</item>
+    </string-array>
+    <string-array name="_9">
+        <item name="display_name">9</item>
+        <item name="line_id">9A</item>
+        <item name="line_name">Cordeliers - Sathonay Camp Manutention</item>
+    </string-array>
+    <string-array name="_1EX">
+        <item name="display_name">1EX</item>
+        <item name="line_id">1EX</item>
+        <item name="line_name">Grange-Blanche - Colombier Saugnieu Les Salines</item>
+    </string-array>
+    <string-array name="_11">
+        <item name="display_name">11</item>
+        <item name="line_id">11B</item>
+        <item name="line_name">Gare d\'Oullins - Thurins Mairie</item>
+    </string-array>
+    <string-array name="_12">
+        <item name="display_name">12</item>
+        <item name="line_id">12B</item>
+        <item name="line_name">Gare d\'Oullins - Saint Genis 2</item>
+    </string-array>
+    <string-array name="_14">
+        <item name="display_name">14</item>
+        <item name="line_id">14B</item>
+        <item name="line_name">Gare d\'Oullins - Gorge de Loup</item>
+    </string-array>
+    <string-array name="_15">
+        <item name="display_name">15</item>
+        <item name="line_id">15D</item>
+        <item name="line_name">Bellecour - Irigny Hauts de Selettes</item>
+    </string-array>
+    <string-array name="_15E">
+        <item name="display_name">15E</item>
+        <item name="line_id">15E</item>
+        <item name="line_name">Bellecour - Pierre Bénite - Irigny Hauts de Selettes</item>
+    </string-array>
+    <string-array name="_16">
+        <item name="display_name">16</item>
+        <item name="line_id">16A</item>
+        <item name="line_name">Vaulx-en-Velin La Soie - Décines Grand Large</item>
+    </string-array>
+    <string-array name="_17">
+        <item name="display_name">17</item>
+        <item name="line_id">17B</item>
+        <item name="line_name">Sainte-Foy Place Saint Luc - St Genis 2 / St Genis Lycée</item>
+    </string-array>
+    <string-array name="_171">
+        <item name="display_name">171</item>
+        <item name="line_id">171</item>
+        <item name="line_name">Pont Guillotière - Crépieux Les Brosses (Montluel)</item>
+    </string-array>
+    <string-array name="_18">
+        <item name="display_name">18</item>
+        <item name="line_id">18B</item>
+        <item name="line_name">Gare d\'Oullins - Vernaison Place</item>
+    </string-array>
+    <string-array name="_19">
+        <item name="display_name">19</item>
+        <item name="line_id">19A</item>
+        <item name="line_name">Hôtel de Ville Louis Pradel - Le Pérollier</item>
+    </string-array>
+    <string-array name="_2EX">
+        <item name="display_name">2EX</item>
+        <item name="line_id">2EX</item>
+        <item name="line_name">Lyon Gorge de Loup - Chazelles-sur-Lyon</item>
+    </string-array>
+    <string-array name="_20">
+        <item name="display_name">20</item>
+        <item name="line_id">20A</item>
+        <item name="line_name">Gare de Vaise - Saint-Cyr</item>
+    </string-array>
+    <string-array name="_21">
+        <item name="display_name">21</item>
+        <item name="line_id">21A</item>
+        <item name="line_name">Gare de Vaise - Chasselay</item>
+    </string-array>
+    <string-array name="_22">
+        <item name="display_name">22</item>
+        <item name="line_id">22A</item>
+        <item name="line_name">Gare de Vaise - Saint Fortunat</item>
+    </string-array>
+    <string-array name="_23">
+        <item name="display_name">23</item>
+        <item name="line_id">23A</item>
+        <item name="line_name">Gare de Vaise - Rocade des Monts d\'Or</item>
+    </string-array>
+    <string-array name="_24">
+        <item name="display_name">24</item>
+        <item name="line_id">24A</item>
+        <item name="line_name">Grange Blanche - Bron Sept Chemins</item>
+    </string-array>
+    <string-array name="_25">
+        <item name="display_name">25</item>
+        <item name="line_id">25A</item>
+        <item name="line_name">Gare Part Dieu Vivier Merle - Bron Sept Chemins</item>
+    </string-array>
+    <string-array name="_26">
+        <item name="display_name">26</item>
+        <item name="line_id">26A</item>
+        <item name="line_name">Lycée Lumière - Manissieux Pierre Blanche</item>
+    </string-array>
+    <string-array name="_27">
+        <item name="display_name">27</item>
+        <item name="line_id">27A</item>
+        <item name="line_name">Vieux Lyon - Villeurbanne Centre</item>
+    </string-array>
+    <string-array name="_28">
+        <item name="display_name">28</item>
+        <item name="line_id">28A</item>
+        <item name="line_name">Vaulx-en-Velin La Soie - Meyzieu ZI - Pusignan Gutenberg</item>
+    </string-array>
+    <string-array name="_29">
+        <item name="display_name">29</item>
+        <item name="line_id">29A</item>
+        <item name="line_name">Genas Ratabizet- Meyzieu Z.I</item>
+    </string-array>
+    <string-array name="_296">
+        <item name="display_name">296</item>
+        <item name="line_id">296</item>
+        <item name="line_name">Part Dieu - Parilly - St Pierre de Chandieu Rajat</item>
+    </string-array>
+    <string-array name="_C">
+        <item name="display_name">C</item>
+        <item name="line_id">303</item>
+        <item name="line_name">Hôtel de Ville - Cuire</item>
+    </string-array>
+    <string-array name="_D">
+        <item name="display_name">D</item>
+        <item name="line_id">304</item>
+        <item name="line_name">Gare de Vaise - Gare de Vénissieux</item>
+    </string-array>
+    <string-array name="_31">
+        <item name="display_name">31</item>
+        <item name="line_id">31A</item>
+        <item name="line_name">Perrache / Gare de Vaise - Cité Edouard Herriot</item>
+    </string-array>
+    <string-array name="_32">
+        <item name="display_name">32</item>
+        <item name="line_id">32A</item>
+        <item name="line_name">Meyzieu Zi - Jons Hameau de Biane</item>
+    </string-array>
+    <string-array name="_F1">
+        <item name="display_name">F1</item>
+        <item name="line_id">325</item>
+        <item name="line_name">Vieux Lyon - Saint Just</item>
+    </string-array>
+    <string-array name="_F2">
+        <item name="display_name">F2</item>
+        <item name="line_id">326</item>
+        <item name="line_name">Vieux Lyon - Fourvière</item>
+    </string-array>
+    <string-array name="_33">
+        <item name="display_name">33</item>
+        <item name="line_id">33A</item>
+        <item name="line_name">Croix Rousse - Rillieux Les Alagniers</item>
+    </string-array>
+    <string-array name="_35">
+        <item name="display_name">35</item>
+        <item name="line_id">35A</item>
+        <item name="line_name">Bellecour - Vénissieux Le Charréard</item>
+    </string-array>
+    <string-array name="_37">
+        <item name="display_name">37</item>
+        <item name="line_id">37A</item>
+        <item name="line_name">Charpennes - Vaulx-en-Velin Marcel Cachin</item>
+    </string-array>
+    <string-array name="_38">
+        <item name="display_name">38</item>
+        <item name="line_id">38A</item>
+        <item name="line_name">Gare Part Dieu Vivier Merle - Caluire Place de la Bascule</item>
+    </string-array>
+    <string-array name="_39">
+        <item name="display_name">39</item>
+        <item name="line_id">39A</item>
+        <item name="line_name">Parc de Parilly - Solaize</item>
+    </string-array>
+    <string-array name="_40">
+        <item name="display_name">40</item>
+        <item name="line_id">40A</item>
+        <item name="line_name">Bellecour - Neuville</item>
+    </string-array>
+    <string-array name="_43">
+        <item name="display_name">43</item>
+        <item name="line_id">43A</item>
+        <item name="line_name">Gare de Vaise - Saint Romain / Genay Proulieu</item>
+    </string-array>
+    <string-array name="_45">
+        <item name="display_name">45</item>
+        <item name="line_id">45A</item>
+        <item name="line_name">Croix Rousse - Valdo</item>
+    </string-array>
+    <string-array name="_46">
+        <item name="display_name">46</item>
+        <item name="line_id">46A</item>
+        <item name="line_name">Perrache - Boyer</item>
+    </string-array>
+    <string-array name="_49">
+        <item name="display_name">49</item>
+        <item name="line_id">49A</item>
+        <item name="line_name">Perrache - Sainte-Foy Châtelain</item>
+    </string-array>
+    <string-array name="_50">
+        <item name="display_name">50</item>
+        <item name="line_id">50A</item>
+        <item name="line_name">Saint-Priest Hôtel de Ville - La Fouillouse</item>
+    </string-array>
+    <string-array name="_52">
+        <item name="display_name">52</item>
+        <item name="line_id">52A</item>
+        <item name="line_name">Vaulx La Grappinière - Parilly Université Hippodrome</item>
+    </string-array>
+    <string-array name="_54">
+        <item name="display_name">54</item>
+        <item name="line_id">54A</item>
+        <item name="line_name">Gare de Vénissieux - Corbas Les Taillis</item>
+    </string-array>
+    <string-array name="_55">
+        <item name="display_name">55</item>
+        <item name="line_id">55A</item>
+        <item name="line_name">Perrache - Campus Lyon Ouest</item>
+    </string-array>
+    <string-array name="_57">
+        <item name="display_name">57</item>
+        <item name="line_id">57A</item>
+        <item name="line_name">Laurent Bonnevay - Vaulx Le Bourg / Décines Grand Large</item>
+    </string-array>
+    <string-array name="_60">
+        <item name="display_name">60</item>
+        <item name="line_id">60A</item>
+        <item name="line_name">Perrache - Feyzin Les Razes / Château de l\' Isle</item>
+    </string-array>
+    <string-array name="_61">
+        <item name="display_name">61</item>
+        <item name="line_id">61B</item>
+        <item name="line_name">Gare de Vaise - Lissieu Montluzin</item>
+    </string-array>
+    <string-array name="_62">
+        <item name="display_name">62</item>
+        <item name="line_id">62A</item>
+        <item name="line_name">Gare de Vénissieux - Mions Jules Vallès</item>
+    </string-array>
+    <string-array name="_63">
+        <item name="display_name">63</item>
+        <item name="line_id">63A</item>
+        <item name="line_name">Perrache - Oullins Le golf</item>
+    </string-array>
+    <string-array name="_65">
+        <item name="display_name">65</item>
+        <item name="line_id">65A</item>
+        <item name="line_name">Gorge de Loup - Charcot La Source</item>
+    </string-array>
+    <string-array name="_66">
+        <item name="display_name">66</item>
+        <item name="line_id">66A</item>
+        <item name="line_name">Saint Just - Champagne Ecoles</item>
+    </string-array>
+    <string-array name="_67">
+        <item name="display_name">67</item>
+        <item name="line_id">67A</item>
+        <item name="line_name">Laurent Bonnevay - Meyzieu Avenue de Crottay</item>
+    </string-array>
+    <string-array name="_68">
+        <item name="display_name">68</item>
+        <item name="line_id">68B</item>
+        <item name="line_name">Vaulx-en-Velin La Soie - Chassieu Les Grandes Terres</item>
+    </string-array>
+    <string-array name="_69">
+        <item name="display_name">69</item>
+        <item name="line_id">69A</item>
+        <item name="line_name">Sans Souci - Clinique du Tonkin</item>
+    </string-array>
+    <string-array name="_70">
+        <item name="display_name">70</item>
+        <item name="line_id">70A</item>
+        <item name="line_name">Gare Part Dieu Vivier Merle - Neuville</item>
+    </string-array>
+    <string-array name="_71">
+        <item name="display_name">71</item>
+        <item name="line_id">71A</item>
+        <item name="line_name">Gare de Vaise - Ecoles de Collonges</item>
+    </string-array>
+    <string-array name="_72">
+        <item name="display_name">72</item>
+        <item name="line_id">72C</item>
+        <item name="line_name">Gorge de Loup - Saint Consorce</item>
+    </string-array>
+    <string-array name="_73">
+        <item name="display_name">73</item>
+        <item name="line_id">73D</item>
+        <item name="line_name">Gorge de Loup - Brindas Centre</item>
+    </string-array>
+    <string-array name="_73E">
+        <item name="display_name">73E</item>
+        <item name="line_id">73E</item>
+        <item name="line_name">Gorge de Loup -Craponne - Brindas Centre</item>
+    </string-array>
+    <string-array name="_76">
+        <item name="display_name">76</item>
+        <item name="line_id">76A</item>
+        <item name="line_name">Décines Grand Large - Corbas les Balmes</item>
+    </string-array>
+    <string-array name="_77">
+        <item name="display_name">77</item>
+        <item name="line_id">77A</item>
+        <item name="line_name">Caluire Montessuy - Pont de Fontaines</item>
+    </string-array>
+    <string-array name="_78">
+        <item name="display_name">78</item>
+        <item name="line_id">78B</item>
+        <item name="line_name">Gare d\' Oullins - Gare de Givors Ville</item>
+    </string-array>
+    <string-array name="_79">
+        <item name="display_name">79</item>
+        <item name="line_id">79A</item>
+        <item name="line_name">Vénissieux La Borelle - Décines Grand Large</item>
+    </string-array>
+    <string-array name="_80">
+        <item name="display_name">80</item>
+        <item name="line_id">80A</item>
+        <item name="line_name">Grigny La Colombe - Givors Vallée du Gier</item>
+    </string-array>
+    <string-array name="_81">
+        <item name="display_name">81</item>
+        <item name="line_id">81A</item>
+        <item name="line_name">Plateau de Montrond - Collège de Bans</item>
+    </string-array>
+    <string-array name="_83">
+        <item name="display_name">83</item>
+        <item name="line_id">83A</item>
+        <item name="line_name">Vaulx La Soie - Grand Parc</item>
+    </string-array>
+    <string-array name="_84">
+        <item name="display_name">84</item>
+        <item name="line_id">84A</item>
+        <item name="line_name">Gare de Vaise - Neuville</item>
+    </string-array>
+    <string-array name="_85">
+        <item name="display_name">85</item>
+        <item name="line_id">85A</item>
+        <item name="line_name">Décines Grand Large - Meyzieu Gadelles</item>
+    </string-array>
+    <string-array name="_86">
+        <item name="display_name">86</item>
+        <item name="line_id">86A</item>
+        <item name="line_name">Gorge de Loup - La Tour de Salvagny Chambettes</item>
+    </string-array>
+    <string-array name="_87">
+        <item name="display_name">87</item>
+        <item name="line_id">87A</item>
+        <item name="line_name">Gare de Vénissieux - Mions Bourdelle</item>
+    </string-array>
+    <string-array name="_88">
+        <item name="display_name">88</item>
+        <item name="line_id">88B</item>
+        <item name="line_name">Gare d\' Oullins - Saint Genis Gadagne</item>
+    </string-array>
+    <string-array name="_89">
+        <item name="display_name">89</item>
+        <item name="line_id">89D</item>
+        <item name="line_name">Gare de Vaise - Porte de Lyon</item>
+    </string-array>
+    <string-array name="_89D">
+        <item name="display_name">89D</item>
+        <item name="line_id">89E</item>
+        <item name="line_name">Gare de Vaise - Porte de Lyon</item>
+    </string-array>
+    <string-array name="_90">
+        <item name="display_name">90</item>
+        <item name="line_id">90A</item>
+        <item name="line_name">Valmy Place Ferber - Sainte-Foy Châtelain</item>
+    </string-array>
+    <string-array name="_93">
+        <item name="display_name">93</item>
+        <item name="line_id">93A</item>
+        <item name="line_name">Hôpital Feyzin Vénissieux - Porte des Alpes</item>
+    </string-array>
+    <string-array name="_95">
+        <item name="display_name">95</item>
+        <item name="line_id">95A</item>
+        <item name="line_name">Meyzieu Parc du Grand Large - Jonage</item>
+    </string-array>
+    <string-array name="_96">
+        <item name="display_name">96</item>
+        <item name="line_id">96A</item>
+        <item name="line_name">Neuville - Saint-Germain Pain Béni</item>
+    </string-array>
+    <string-array name="_97">
+        <item name="display_name">97</item>
+        <item name="line_id">97A</item>
+        <item name="line_name">Saint-Germain Gare / Neuville - Montanay Les Dîmes</item>
+    </string-array>
+    <string-array name="_98">
+        <item name="display_name">98</item>
+        <item name="line_id">98D</item>
+        <item name="line_name">Gorge de Loup - Marcy Campus Sanofi</item>
+    </string-array>
+    <string-array name="_98E">
+        <item name="display_name">98E</item>
+        <item name="line_id">98E</item>
+        <item name="line_name">Gorge de Loup - Marcy Campus Sanofi</item>
+    </string-array>
+    <string-array name="_100">
+        <item name="display_name">100</item>
+        <item name="line_id">100A</item>
+        <item name="line_name">Direct Eurexpo - Vaulx-en-Velin La Soie-Eurexpo</item>
+    </string-array>
+    <string-array name="_111">
+        <item name="display_name">111</item>
+        <item name="line_id">111A</item>
+        <item name="line_name">Vienne - Vénissieux Parilly</item>
+    </string-array>
+    <string-array name="_112">
+        <item name="display_name">112</item>
+        <item name="line_id">112A</item>
+        <item name="line_name">Saint Symphorien d\'Ozon - Vénissieux Parilly</item>
+    </string-array>
+    <string-array name="_118">
+        <item name="display_name">118</item>
+        <item name="line_id">118A</item>
+        <item name="line_name">Lyon Gare de Vaise - Belleville-sur-Saône</item>
+    </string-array>
+    <string-array name="_142">
+        <item name="display_name">142</item>
+        <item name="line_id">142A</item>
+        <item name="line_name">Ecole veterinaire - Gorge de Loup</item>
+    </string-array>
+    <string-array name="_A">
+        <item name="display_name">A</item>
+        <item name="line_id">301A</item>
+        <item name="line_name">Perrache - Vaulx-en-Velin La Soie</item>
+    </string-array>
+    <string-array name="_B">
+        <item name="display_name">B</item>
+        <item name="line_id">302A</item>
+        <item name="line_name">Charpennes - Gare d\' Oullins</item>
+    </string-array>
+    <string-array name="_BRT1">
+        <item name="display_name">BRT1</item>
+        <item name="line_id">321A</item>
+        <item name="line_name">PRT T1 Debourg - IUT Feyssine</item>
+    </string-array>
+    <string-array name="_BRMB">
+        <item name="display_name">BRMB</item>
+        <item name="line_id">328A</item>
+        <item name="line_name">PRM B Charpennes - Gare d\'Oullins</item>
+    </string-array>
+    <string-array name="_S1">
+        <item name="display_name">S1</item>
+        <item name="line_id">S1A</item>
+        <item name="line_name">Gare Saint Paul - Confluence Rambaud</item>
+    </string-array>
+    <string-array name="_S2">
+        <item name="display_name">S2</item>
+        <item name="line_id">S2A</item>
+        <item name="line_name">La Tour de Salvagny Gare - La Tour de Salvagny Chambettes</item>
+    </string-array>
+    <string-array name="_S3">
+        <item name="display_name">S3</item>
+        <item name="line_id">S3B</item>
+        <item name="line_name">Collonges Gare - Techlid Allée des Hêtres</item>
+    </string-array>
+    <string-array name="_S4">
+        <item name="display_name">S4</item>
+        <item name="line_id">S4A</item>
+        <item name="line_name">Croix-Rousse - Clos Jouve - Henon - Croix-Rousse</item>
+    </string-array>
+    <string-array name="_S5">
+        <item name="display_name">S5</item>
+        <item name="line_id">S5A</item>
+        <item name="line_name">Caluire Bords de Saône - Vieux Crépieux</item>
+    </string-array>
+    <string-array name="_S6">
+        <item name="display_name">S6</item>
+        <item name="line_id">S6A</item>
+        <item name="line_name">Hôtel de Ville Louis Pradel - Croix Rousse</item>
+    </string-array>
+    <string-array name="_S7">
+        <item name="display_name">S7</item>
+        <item name="line_id">S7A</item>
+        <item name="line_name">Saint Cyr - La Chaux Ecole de Champlong</item>
+    </string-array>
+    <string-array name="_S8">
+        <item name="display_name">S8</item>
+        <item name="line_id">S8A</item>
+        <item name="line_name">Rillieux Victor Hugo - Crépieux Les Brosses</item>
+    </string-array>
+    <string-array name="_S9">
+        <item name="display_name">S9</item>
+        <item name="line_id">S9A</item>
+        <item name="line_name">Saint Genis Jean Giono - Moly</item>
+    </string-array>
+    <string-array name="_S10">
+        <item name="display_name">S10</item>
+        <item name="line_id">S10A</item>
+        <item name="line_name">Plateaux de Saint-Rambert - Joannès Carret</item>
+    </string-array>
+    <string-array name="_S11">
+        <item name="display_name">S11</item>
+        <item name="line_id">S11A</item>
+        <item name="line_name">Gare de Vaise - Duchère Le Château</item>
+    </string-array>
+    <string-array name="_S12">
+        <item name="display_name">S12</item>
+        <item name="line_id">S12A</item>
+        <item name="line_name">Hôtel de Ville Louis Pradel - Croix Rousse</item>
+    </string-array>
+    <string-array name="_S14">
+        <item name="display_name">S14</item>
+        <item name="line_id">S14A</item>
+        <item name="line_name">Circulaire Neuville</item>
+    </string-array>
+    <string-array name="_S15">
+        <item name="display_name">S15</item>
+        <item name="line_id">S15A</item>
+        <item name="line_name">Gare d\'Ecully la Demi-Lune - Les Sources</item>
+    </string-array>
+    <string-array name="_S16">
+        <item name="display_name">S16</item>
+        <item name="line_id">S16A</item>
+        <item name="line_name">Collonges Gare - Ecully Le Pérollier</item>
+    </string-array>
+    <string-array name="_ZI1">
+        <item name="display_name">ZI1</item>
+        <item name="line_id">ZI1A</item>
+        <item name="line_name">Gare de Vénissieux - Saint-Priest Gare</item>
+    </string-array>
+    <string-array name="_ZI2">
+        <item name="display_name">ZI2</item>
+        <item name="line_id">ZI2A</item>
+        <item name="line_name">Meyzieu Zi Nord - Meyzieu Zi Sud</item>
+    </string-array>
+    <string-array name="_ZI3">
+        <item name="display_name">ZI3</item>
+        <item name="line_id">ZI3A</item>
+        <item name="line_name">ZI Vaulx-en-Velin Est - Vaulx-en-Velin La Soie</item>
+    </string-array>
+    <string-array name="_ZI4">
+        <item name="display_name">ZI4</item>
+        <item name="line_id">ZI4A</item>
+        <item name="line_name">Vaulx La Soie - Caluire Chemin Petit</item>
+    </string-array>
+    <string-array name="_ZI5">
+        <item name="display_name">ZI5</item>
+        <item name="line_id">ZI5B</item>
+        <item name="line_name">Vaulx-en-Velin La Soie - Genas Rond-Point d\'Italie</item>
+    </string-array>
+    <string-array name="_ZI6">
+        <item name="display_name">ZI6</item>
+        <item name="line_id">ZI6A</item>
+        <item name="line_name">Jean Macé - Saint Fons Semard</item>
+    </string-array>
+    <string-array name="_ZI7">
+        <item name="display_name">ZI7</item>
+        <item name="line_id">ZI7A</item>
+        <item name="line_name">Vaulx-en-Velin La Soie - Bron Droit de l\' Homme</item>
+    </string-array>
+    <string-array name="_ZI8">
+        <item name="display_name">ZI8</item>
+        <item name="line_id">ZI8A</item>
+        <item name="line_name">St Priest Jules Ferry - Parc des Lumières</item>
+    </string-array>
+    <string-array name="_GE2">
+        <item name="display_name">GE2</item>
+        <item name="line_id">GE2A</item>
+        <item name="line_name">Feyzin Gare - Solaize C.R.E.S.</item>
+    </string-array>
+    <string-array name="_GE4">
+        <item name="display_name">GE4</item>
+        <item name="line_id">GE4A</item>
+        <item name="line_name">La Tour de Salvagny Gare - Techlid</item>
+    </string-array>
+    <string-array name="_GE6">
+        <item name="display_name">GE6</item>
+        <item name="line_id">GE6A</item>
+        <item name="line_name">Charbonnières Gare - Marcy l\'Etoile</item>
+    </string-array>
+    <string-array name="_R2">
+        <item name="display_name">R2</item>
+        <item name="line_id">R2A</item>
+        <item name="line_name">Poleymieux - Neuville</item>
+    </string-array>
+    <string-array name="_R3">
+        <item name="display_name">R3</item>
+        <item name="line_id">R3A</item>
+        <item name="line_name">Gare de Givors Ville - Cimetière de Givors</item>
+    </string-array>
+    <string-array name="_R5">
+        <item name="display_name">R5</item>
+        <item name="line_id">R5A</item>
+        <item name="line_name">St Pierre de Chandieu Rajat - St Priest Jules Ferry</item>
+    </string-array>
+    <string-array name="_N18">
+        <item name="display_name">N18</item>
+        <item name="line_id">N18A</item>
+        <item name="line_name">Vernaison Place - boucle Hameaux - Vernaison Place</item>
+    </string-array>
+</resources>

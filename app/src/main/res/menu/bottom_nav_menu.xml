@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_tram"
+        android:icon="@drawable/ic_tram_black_24dp"
+        android:title=""/>
+
+
+    <item
+        android:id="@+id/nav_park"
+        android:icon="@drawable/ic_directions_car_black_24dp"
+        android:title="Parkings" />
+
+
+    <item
+        android:id="@+id/nav_alert"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="" />
+
+</menu>

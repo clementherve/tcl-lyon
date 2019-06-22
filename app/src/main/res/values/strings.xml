@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">TCL</string>
+    <string name="icon_parc">Parc-Relais</string>
+    <string name="icon_tram">Transport</string>
+    <string name="icon_notif">Alertes</string>
+
+</resources>
